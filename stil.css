@@ -1,0 +1,10 @@
+body { margin: 0; background: #0e0f13; color: #fff; font: 17px/1.6 "Segoe UI", Inter, sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 48px 20px; }
+header { display: flex; align-items: center; gap: 18px; }
+h1 { margin: 0; font-size: 34px; }
+h2 { margin-top: 34px; font-size: 20px; }
+p, li { color: #d5d9e2; }
+.gross { font-size: 20px; }
+a { color: #7fa6ff; }
+code { background: #1c1f26; padding: 2px 6px; border-radius: 5px; }
+footer { margin-top: 44px; padding-top: 18px; border-top: 1px solid #2a2e39; }
